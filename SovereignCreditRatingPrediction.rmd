@@ -25,7 +25,6 @@ output:
     number_sections: yes
 subtitle: 'PH125.9x Data Science: Capstone'
 bibliography: Untitled_files/reprex.bib
-csl: journal-of-finance.csl
 ---
 ```{r Download-BibTex-References, warning = FALSE, echo = FALSE}
 dir.create("Untitled_files")
